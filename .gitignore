@@ -32,4 +32,7 @@ go.work.sum
 # .idea/
 # .vscode/
 
+**/.DS_Store
+
 vendor/*
+cmd/ig_*
